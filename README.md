@@ -35,39 +35,31 @@ agenda_django/
 - `core/`: configurações principais do projeto
 - `utils/`: funções utilitárias usadas no projeto
 
-  ## Demonstrações da Aplicação
+## 📸 Demonstrações da Aplicação
 
-| Vídeos de pesquisa | Vídeo de cadastro |
-|:--:|:--:|
-| https://github.com/user-attachments/assets/f3bf359f-1b2b-4e8e-b2d1-25b3a4399727 | 
+### ▶️ Vídeos de Funcionamento
 
-✅ Cadastro e Autenticação
+- [Vídeo 1 de funcionamento](https://github.com/user-attachments/assets/28445754-05c7-4e50-ae46-b0d36d437d40)
+- [Vídeo 2 de funcionamento](https://github.com/user-attachments/assets/8339c812-5f1d-410e-9197-7f76982645f8)
 
-| Cadastro de usuários | Login com erro de autenticação |
-|:--:|:--:|
-|![cadastro_usuarios](https://github.com/user-attachments/assets/4ad50d6f-aa82-4000-a74a-ea6392879aa2) |![login_incorreto](https://github.com/user-attachments/assets/d7d8789f-2e86-4d6d-be83-6433e38a9b40)
+---
 
-| Autenticação bem-sucedida e acesso aos mentorados |
-|:--:|
-|![mentorados_auth](https://github.com/user-attachments/assets/e1d08469-6a1f-4258-a5f1-90ae2d0e40ba)
+### 📷 Capturas de Tela
 
-👨‍🏫 Gerenciamento de Mentorados
-| Cadastro de mentorados | Tarefa - Mentor |
-|:--:|:--:|
-| ![cadastro_mentorados](https://github.com/user-attachments/assets/6d68dc8e-7a33-4141-88e5-0be8f05a69cf) |![tarefa_mentor](https://github.com/user-attachments/assets/403a3db1-8c42-4b49-b7ea-1f2bad5732ad)
+**Cadastro de Usuários**  
+![Cadastro de usuários](https://github.com/user-attachments/assets/3416dcfa-b01d-44af-a406-693b23530278)
 
-| Tarefa - Mentorado |
-|:--:|
-|![tarefa_mentorado](https://github.com/user-attachments/assets/b9be1d5b-7f16-4f4e-afae-cf52887b6f09)
+**Login Realizado com Sucesso**  
+![Login realizado](https://github.com/user-attachments/assets/bd2f399b-c1a0-432c-b492-eaeb5994b96d)
 
-📅 Reuniões
-| Escolher dia | Agendar reunião |
-|:--:|:--:|
-| ![escolher_dia](https://github.com/user-attachments/assets/f14d1e61-739a-4ce1-88ad-74b7a838c368) |![agendar_reuniao](https://github.com/user-attachments/assets/17fd8c68-fba8-450a-8f4b-94e357a13c2e)
+**Tela Inicial da Aplicação**  
+![Tela inicial](https://github.com/user-attachments/assets/88feb430-eeed-4c59-b91f-7c99c30fa357)
 
-| Reunião marcada |
-|:--:|
-| ![abrir_reuniao](https://github.com/user-attachments/assets/ed633973-5240-4a04-a265-b6fe619e2eeb)
+**Perfil de Usuário**  
+![Usuário](https://github.com/user-attachments/assets/5adaa6a0-44fb-4a47-b24f-57bcb7335605)
+
+**Usuário com Imagem**  
+![Usuário com imagem](https://github.com/user-attachments/assets/dde86cc2-cb47-4660-bca2-a3b58a32416e)
 
 
 ## ⚙️ Como Executar o Projeto
